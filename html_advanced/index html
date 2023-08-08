@@ -1,1 +1,16 @@
 <!DOCTYPE html>
+<html>
+<head>
+    <title>HTML SKELETON </title>
+</head>
+<body>
+    <header>
+        <a href="http://www.example.com">
+            <img src="holbertonlogo.png" alt="holbertonlogo"/>
+        </a>
+        <a href="http://www.example.com">Link 1</a>
+        <a href="http://www.example.com">Link 2</a>
+        <a href="http://www.example.com">Link 3</a>
+    </header>
+</body>
+</html>
