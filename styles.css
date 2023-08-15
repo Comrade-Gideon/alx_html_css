@@ -1,15 +1,39 @@
+li{
+    list-style-type: none;
+}
+#logo{
+    color: white;
+}
+
+header{
+    background: #333;
+    font: 13px/20px georgia, Helvetica, Arial, San-serif;
+    line-height: 45px;
+    border: 1px solid #333;
+   
+}
+a{
+    color: #0087cc;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color: #cdc;
+}
 body{
     display: flex;
-    flex-direction: column property;
+    flex-direction: column;
 }
 main{
     display: flex;
-    flex-direction: row property;
+    flex-direction: row;
     flex: auto;
 }
 article{
     flex: 2;
     overflow-y: auto;
+    padding: 20px;
     
 }
 aside{
@@ -17,3 +41,28 @@ aside{
     overflow-y: auto;
 }
 
+h1, h2, h3, h4{
+    font-family:georgia;
+}
+tr{
+    font-family: georgia;
+    text-align: center;
+}
+aside{
+    padding: 0 20px;
+    border: 1px solid #ccc;
+    
+}
+#h3{
+    background: gold;
+    color: red;
+    text-align: center;
+}
+footer{
+    background: #333;
+    font: 13px/20px "Helvetica Neue", Helvetica, Arial, San-serif;
+    padding: 20px;
+}
+footer a{
+    color: red;
+}
