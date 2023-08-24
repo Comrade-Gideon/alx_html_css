@@ -373,7 +373,16 @@
   .section-services{
       
   }
-  
+  .section-works{
+      
+  }
+  .section-about-us{
+       
+  }
+ 
+     .section-latest-news{
+    
+  }
   /*** 4. CARD ***/
   
   /* Card (all styles)
@@ -468,15 +477,7 @@
     transition-duration: 0.3s;
     transition-property: color, background-color;
   }
-  .section-works{
-      
-  }
-  .section-about-us{
-       
-  }
-  .section-latest-news{
-    
-  }
+ 
   /* Card TESTIMONIAL
       ============================= */
   .section-testimonial{
